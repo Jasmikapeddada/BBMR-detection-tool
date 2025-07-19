@@ -16,9 +16,6 @@ A GUI-based application to detect **band-to-band misregistration** in multi-spec
 - [Challenges Faced](#-challenges-faced)
 - [Key Achievements](#-key-achievements)
 - [Learnings](#-learnings)
-- [Setup Instructions](#-setup-instructions)
-- [Project Details](#-project-details)
-- [Contact](#-contact)
 
 ---
 
@@ -90,7 +87,7 @@ The tool allows users to:
 - Parsing and handling multi-spectral satellite imagery
 - Balancing algorithm speed vs accuracy
 - GUI design for non-technical users
-- Validating results against real-world misregistered datasets
+- Validating results against misregistered datasets
 
 ---
 
@@ -110,24 +107,3 @@ The tool allows users to:
 - Real-world satellite image processing
 - Applying statistical analysis for validation
 - Collaborative research & reporting in a space organization
-
----
-
-## 🚀 Setup Instructions
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/satellite-misregistration-detector.git
-
-# Navigate to the project directory
-cd satellite-misregistration-detector
-
-# (Optional) Create a virtual environment
-python -m venv venv
-source venv/bin/activate  # or venv\Scripts\activate on Windows
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the application
-python main.py
