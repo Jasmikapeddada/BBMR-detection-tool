@@ -52,21 +52,6 @@ The tool allows users to:
 
 ---
 
-## 🖼 Screenshots
-
-> **Main GUI Interface**  
-> _User-friendly interface to select bands and visualize results_
-
-> **Detection Results**  
-> _Shows spatial shifts between bands using each algorithm_
-
-> **Performance Comparison**  
-> _Compare methods based on result accuracy and timing_
-
-(Add image links or files here using markdown `![Alt Text](image-url)`)
-
----
-
 ## ⚙️ How It Works
 
 1. User selects two bands from a satellite image.
