@@ -2,7 +2,7 @@
 
 **Python-Based Computer Vision Tool | Developed during ISRO–NRSC Research Internship**
 
-A GUI-based application to detect **band-to-band misregistration** in multi-spectral satellite images using advanced computer vision techniques. Built using Python and designed to support ISRO researchers in improving remote sensing data accuracy from ResourceSat-2 and 2A satellites.
+A GUI-based application to detect **band-to-band misregistration** in multi-spectral satellite images using advanced computer vision techniques. Built using Python and designed to support ISRO researchers in improving remote sensing data accuracy. 
 
 ---
 
