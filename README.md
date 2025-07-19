@@ -11,7 +11,6 @@ A GUI-based application to detect **band-to-band misregistration** in multi-spec
 - [Overview](#-overview)
 - [Features](#-features)
 - [Technologies Used](#-technologies-used)
-- [Screenshots](#-screenshots)
 - [How It Works](#-how-it-works)
 - [Challenges Faced](#-challenges-faced)
 - [Key Achievements](#-key-achievements)
